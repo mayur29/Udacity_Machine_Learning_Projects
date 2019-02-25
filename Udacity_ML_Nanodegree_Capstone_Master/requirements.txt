@@ -1,0 +1,9 @@
+jupyter==1.0.0
+numpy==1.15.4
+scipy==1.2.0
+matplotlib==3.0.2
+pandas==0.23.0
+scikit-learn==0.20.2
+seaboard==0.9.0
+plotly==3.5.0
+xgboost==0.80
